@@ -1,4 +1,5 @@
-package Tp2_Ev3;
+package tp1_ev3;
+
 public class Math{
 
 	private int a=0;

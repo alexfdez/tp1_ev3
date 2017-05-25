@@ -1,4 +1,4 @@
-package Tp2_Ev3;
+package tp1_ev3;
 public class Person {
  private String name;
  private int age;

@@ -1,4 +1,4 @@
-package Tp2_Ev3;
+package tp1_ev3;
 //-----------------inicio código MathTest.java---------------------
 import org.junit.Assert;
 import static org.junit.Assert.*;
