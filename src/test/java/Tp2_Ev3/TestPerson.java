@@ -12,5 +12,7 @@ public class TestPerson {
   assertEquals(82, p.getWeight());
   assertEquals("Brown", p.getEyeColor());
   assertEquals("MALE", p.getGender());
+  assertEquals("Black", p.getHairColor());
+  assertEquals("Reading", p.getHobby());
  }
 }
